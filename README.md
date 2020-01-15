@@ -1,4 +1,4 @@
-# js-drawout-game
+# js-drawout-gameCoding Game with JavaScript- Drawout Game
 
 How to create a game in javascript with No libraries using just JavaScript in 20 Minutes Full Tutorial. (Drawout Game)  Game development tutorial using vanilla JavaScript and HTML5 canvas.  
 
