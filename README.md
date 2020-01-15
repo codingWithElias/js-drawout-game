@@ -6,3 +6,7 @@ How to create a game in javascript with No libraries using just JavaScript in 20
 
 Coding an HTML5 Canvas Game with JS in 20 min 
 Coding "Drawout" Game in 20 min 
+
+[See Demo](https://eliasfsdev.github.io/js-drawout-game)
+
+![img](https://github.com/eliasFsDev/js-drawout-game/blob/master/Drawout%20Game.png)
